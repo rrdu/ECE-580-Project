@@ -11,6 +11,7 @@ Our project aims to tackle the issue of **identifying fake news from real news**
 
 ## Directory: 
 - **Data**: Folder with the CSV files from [ISOT Fake News Kaggle Dataset (Public) (2016-2017)](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
-- **ECE 580 Project Code.ipynb**: Jupyter Notebook with the code for our project
+- **ECE 580 Project Code.ipynb**: Jupyter Notebook with the code for our project (contains everything for the mid-semester report)
 - **ECE 580 Project Proposal.pdf**: Our initial project proposal
 - **ECE 580 Mid-Semester Project Report.pdf**: Our midway checkpoint
+
